@@ -1,8 +1,10 @@
 +++
+
 title = "Server"
 
 [extra]
 authors = ["Gamienator"]
+
 +++
 
 Der Begriff ist sehr weitläufig, ein Server kann eigentlich so jeder Rechner sein des es gibt. Es muss nicht so ein großer Schrank sein, der Hochleistungsaufgaben erledigt. Ziel und Zweck eines Server ist es einen Dienst bereitzustellen. Welche Dienste für eine LAN notwendig ist, muss jede Veranstaltung für sich selbst entscheiden.
