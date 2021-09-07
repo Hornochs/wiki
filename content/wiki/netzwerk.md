@@ -1,11 +1,8 @@
 +++
-
 title = "Netzwerk"
 
 [extra]
-
 authors = ["Gamienator"]
-
 +++
 
 Das Netzwerk gehört zu einem der Kernkomponenten einer LAN-Party. Umso wichtiger ist es ein stabiles Netzwerk aufzubauen, kleine Stolperfallen zu vermeiden und auch vor Fehlern der User gefeilt zu sein. Die Anforderungen sind aber je nach Gästegröße unterschiedlich. Hier sehen wir uns also mal eine Empfehlung an, die sich auf LAN-Partys bis 100 Leute gut umsetzen lässt.
